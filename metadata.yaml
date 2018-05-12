@@ -23,6 +23,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1348
     wikipedia: http://en.wikipedia.org/wiki/René_Bazin
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/43787#Madame-Corentine
 gutenberg_bookshelf: FR Littérature
 gutenberg_issued: '2013-09-21'
 gutenberg_type: Text
